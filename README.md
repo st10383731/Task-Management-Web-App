@@ -62,7 +62,7 @@ Here's an example of the task list, showing tasks with different priorities and 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/task-management-app.git
+    git clone https://github.com/st10383731/task-management-app.git
     cd task-management-app
     ```
 
@@ -91,9 +91,4 @@ Tasks are stored in **localStorage**, which allows the app to remember tasks eve
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Thanks to [MDN Web Docs](https://developer.mozilla.org/) for their documentation and tutorials on web development.
-
----
 
