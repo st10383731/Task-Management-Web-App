@@ -1,9 +1,6 @@
 
 # Task Management App
 
-![image](https://github.com/user-attachments/assets/8be3c86a-1fc2-456e-ba60-d595a9722e01)
-
-
 This **Task Management App** allows users to add, edit, delete, and manage tasks effectively with features like search, sort, filters, and a dark mode option. Tasks are saved in **localStorage** for persistence across page refreshes.
 
 ## Features
